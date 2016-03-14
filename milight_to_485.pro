@@ -1,4 +1,4 @@
-update=3/13/2016 9:46:38 PM
+update=3/14/2016 11:38:12 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=C:/Users/t9569bk/Documents/PCB_Libs/KICad-Library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=E:/Project/KiCad/KICad-Library/BK_Common
 LibName31=E:/Project/KiCad/KICad-Library/BK_STM8
+LibName32=C:/Users/t9569bk/Documents/PCB_Libs/KICad-Library/BK_Common
