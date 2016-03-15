@@ -1,5 +1,5 @@
-Drill report for C:/Users/t9569bk/Documents/KiCad/MILIGHT-to-485-STM8-LT8900/milight_to_485.kicad_pcb
-Created on 3/15/2016 3:05:47 PM
+Drill report for E:\Project\KiCad\MILIGHT to 485 STM8 LT8900\milight_to_485.kicad_pcb
+Created on 3/15/2016 10:46:18 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -7,21 +7,21 @@ Copper Layer Stackup:
     L2 :  B.Cu                      back
 
 
-Drill file 'C:milight_to_485.drl' contains
+Drill file 'E:milight_to_485.drl' contains
     plated through holes:
     =============================================================
-    T1  0.40mm  0.016"  (22 holes)
-    T2  0.70mm  0.028"  (3 holes)
-    T3  0.90mm  0.035"  (14 holes)
-    T4  1.02mm  0.040"  (21 holes)
+    T1  0.40mm  0.016"  (25 holes)
+    T2  0.90mm  0.035"  (14 holes)
+    T3  1.02mm  0.040"  (21 holes)
 
     Total plated holes count 60
 
 
-Drill file 'C:milight_to_485-NPTH.drl' contains
+Drill file 'E:milight_to_485-NPTH.drl' contains
     unplated through holes:
     =============================================================
     T1  2.10mm  0.083"  (2 holes)
-    T2  3.25mm  0.128"  (2 holes)
+    T2  3.20mm  0.126"  (1 hole)
+    T3  3.25mm  0.128"  (2 holes)
 
-    Total unplated holes count 4
+    Total unplated holes count 5
