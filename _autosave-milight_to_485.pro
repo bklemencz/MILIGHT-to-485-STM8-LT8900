@@ -1,6 +1,10 @@
-update=3/18/2016 8:46:59 PM
+update=22/05/2015 07:44:53
 version=1
-last_client=eeschema
+last_client=kicad
+[general]
+version=1
+RootSch=
+BoardNm=
 [pcbnew]
 version=1
 LastNetListRead=
@@ -23,11 +27,9 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
-LibDir=C:/Users/t9569bk/Documents/PCB_Libs/KICad-Library
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,6 +60,3 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=E:/Project/KiCad/KICad-Library/BK_Common
-LibName31=E:/Project/KiCad/KICad-Library/BK_STM8
-LibName32=C:/Users/t9569bk/Documents/PCB_Libs/KICad-Library/BK_Common
